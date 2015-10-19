@@ -1,0 +1,157 @@
+.Logo_mod {
+  display: inline;
+position: absolute;
+top: 15px;
+left: 70px;
+width: 0px;
+height: 53px;
+}
+
+.Logo_mod a {
+    display: block;
+    width: 101px;
+    height: 75px;
+    overflow: hidden;
+    font: 12px/500px "Tahoma";
+    background: transparent url("https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=2957211480,3980386582&fm=96") no-repeat scroll 0% 0%;
+}
+
+.topBar_mod {
+    height: 18px;
+    right: 550px;
+    top: 80px;
+    position: absolute;
+    z-index: 9;
+}
+body{
+    font-size:100%;
+}
+
+a:link {
+text-decoration: none;
+    color:#666
+}
+a:visited {
+text-decoration: none;
+    color:#999
+}
+a:hover {
+text-decoration: none;
+    color:#459
+}
+a:active {
+text-decoration: none;
+    color:#459
+}
+
+ul{
+  list-style:none
+}
+
+.anchorBox_mod h2{
+	width:330px;
+  font-weight:normal;
+	color: #666;
+  margin-bottom: 20px
+}
+
+.right{
+    float:right 
+}
+
+
+.left {
+    border-right:1px solid #999;
+    margin:75px 0px 75px 75px;
+    height:880px;
+    width:700px
+}
+
+.anchor1 img{
+    float:left;
+}
+
+.anchor1 h4{
+    color:#555
+}
+h2.clear{
+    float:left
+}
+
+.anchorBox_mod h2{
+    width:440px
+}
+
+.anchor1 h3{
+    width:300px
+}
+.focusImg h2{
+    position:absolute;
+    top:330px;
+    left:100px;
+    font: 26px/28px "Microsoft YaHei";
+    color:#fff
+}
+
+.focusImg h3{
+    position:absolute;
+    top:380px;
+    font: 12px/14px "Tahoma";
+    left:100px;
+    color:#fff;
+}
+
+.txt_clear h2.clear{
+    width:700px
+}
+
+div.pic{
+    float:left
+}
+span.tj{
+    background: #459 none repeat scroll 0% 0%;
+    color: #fff;
+    display: inline-block;
+    font: 12px/14px "Tahoma";
+    padding: 2px 3px 3px;
+    width: 12px;
+    word-break: break-all;
+    vertical-align: -3px;
+    border-radius: 4px;
+    margin-right: 5px;
+}
+
+div.con_haveImg{
+    width:700px;
+}
+
+strong{
+    font-weight:normal
+}
+
+.anchor1 h3,h4,a{
+    margin:20px
+}
+
+.anchor1 p{
+    margin-left:120px
+}
+
+.con_haveImg p{
+    margin:20px px 0px 10px
+}
+
+._down{
+    position: absolute;
+    left:380px;
+    top:670px
+}
+
+.footer_mod p{
+    position: absolute;
+    font: 12px/22px "Tahoma";
+    color: #BDBDBD;
+    text-align: center;
+    left:180px;
+    top:750px
+}
